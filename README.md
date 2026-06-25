@@ -12,10 +12,12 @@ I am a Computer Science Engineering Graduate with a passion for software develop
 ### 🛠️ Technical Toolkit
 
 #### 💻 Programming Languages
-![Java]
-![C++]
-![C](https://shields.io)
-![Python](https://shields.io)
+<p align="left">
+  <img src="https://githubusercontent.com" alt="java" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="cplusplus" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="c" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="python" width="45" height="45"/>
+</p>
 
 #### 🌐 Web Technologies & Design
 ![HTML5](https://shields.io)
