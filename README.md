@@ -12,8 +12,8 @@ I am a Computer Science Engineering Graduate with a passion for software develop
 ### 🛠️ Technical Toolkit
 
 #### 💻 Programming Languages
-![Java](https://shields.io)
-![C++](https://shields.io)
+![Java]
+![C++]
 ![C](https://shields.io)
 ![Python](https://shields.io)
 
